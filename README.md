@@ -1,6 +1,6 @@
 # restaurant-web 🧑‍🎨
 
-Restaurant Website:
+Restaurant Website
 
 + Developed a comprehensive website for a restaurant, featuring menu items, reservations, and contact details.
 - Implemented an online reservation system for customers to book tables.
