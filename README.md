@@ -1,4 +1,4 @@
-# restaurant-web 🧑‍🎨
+# restaurant-web :sparkling_heart:
 
 Restaurant Website
 
@@ -21,3 +21,7 @@ Restaurant Website
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
